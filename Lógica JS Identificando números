@@ -1,0 +1,24 @@
+let numeroUm = 1
+let stringUm = '1'
+let numeroTrinta = 30
+let stringTrinta = '30'
+let numeroDez = 10
+let stringDez = '10'
+
+if (numeroUm == 'stringUm') {
+  console.log (numeroUm !== 'stringUm')
+} else {
+  console.log (numeroUm == 'stringUm')
+}
+
+if (numeroTrinta === 'stringTrinta') {
+  console.log (numeroTrinta === 'stringTrinta')
+} else {
+  console.log (numeroTrinta !== 'stringTrinta')
+}
+
+if (numeroDez == 'stringDez') {
+  console.log (numeroDez != 'stringDez')
+} else {
+  console.log (numeroDez !== 'stringDez')
+}
